@@ -1,0 +1,24 @@
+{
+  "name": "LinearRegression_TensorflowJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapilraghuwanshi/FirstMLApp_TensorflowJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapilraghuwanshi/FirstMLApp_TensorflowJS/issues"
+  },
+  "homepage": "https://github.com/kapilraghuwanshi/FirstMLApp_TensorflowJS#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.1.2",
+    "bootstrap": "^4.3.1"
+  }
+}
